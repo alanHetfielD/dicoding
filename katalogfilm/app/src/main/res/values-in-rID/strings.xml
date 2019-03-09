@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">katalogfilm2</string>
+    <string name="Now_playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="search_movie">Pencarian Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Sedang Tayang</string>
+
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="ratin">Rating</string>
+    <string name="duration">Durasi</string>
+    <string name="tagline">TagLine</string>
+    <string name="language">Bahasa</string>
+    <string name="genres">Genre</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="overview">Deskripsi</string>
+    <string name="Up_coming">Akan Datang</string>
+    <string name="cari_film">Cari Film</string>
+    <string name="cari">Cari</string>
+
+    <string name="save">simpan</string>
+    <string name="_throw">buang</string>
+    <string name="save_data">anda menyimpan data ini</string>
+    <string name="delete_data">anda menghapus data ini</string>
+
+    <string name="favorite">Favorit</string>
+    <string name="appwidget_text">FAVORIT</string>
+    <string name="empty_text">Tidak Ada Data</string>
+
+    <string name="action_settings">Pengaturan</string>
+    <string name="reminder">pengingat</string>
+    <string name="key_reminder_daily">pengingat harian</string>
+    <string name="key_reminder_upcoming">pengingat film baru</string>
+    <string name="key_setting_locale">atur lokalisasi</string>
+
+    <string name="label_now_playing">Sedang Tayang</string>
+    <string name="label_upcoming">Akan Datang</string>
+    <string name="label_favorite">Favorit</string>
+    <string name="action_notification">Notifikasi</string>
+    <string name="label_daily_reminder">pengingat harian sekarang </string>
+    <string name="label_upcoming_reminder">pengingat film baru sekarang </string>
+    <string name="label_activated">aktif!</string>
+    <string name="label_deactivated">di matikan!</string>
+
+    <string name="label_daily_reminder_title">Notifikasi pengingat harian </string>
+    <string name="label_daily_reminder_summary"> on/off pengingat harian </string>
+
+    <string name="label_upcoming_reminder_title">Notifikasi pengingat film baru</string>
+    <string name="label_upcoming_reminder_summary"> on/off pengingat film baru</string>
+
+    <string name="label_setting_locale_title">Atur Lokalisasi</string>
+    <string name="label_setting_locale_summary">ubah lokalisasi</string>
+
+    <string name="label_alarm_daily_reminder">selamat pagi, sudahkah anda melihat daftar film hari ini?</string>
+    <string name="err_load_failed">Failed to load data.\\nPlease check your Internet connections!</string>
+    <string name="lang">Bahasa</string>
+    <string name="notifications_title">Notifikasi</string>
+    <string name="language_title">lokalisasi</string>
+    <string name="refresh">Refresh</string>
+</resources>

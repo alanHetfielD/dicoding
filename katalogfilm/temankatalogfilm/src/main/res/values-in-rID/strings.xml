@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Teman Katalog Film</string>
+    <string name="Now_playing">Sedang Tayang</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="search_movie">Pencarian Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing">Sedang Tayang</string>
+
+    <string name="tidak_ada_data">Tidak ada data</string>
+    <string name="ratin">Rating</string>
+    <string name="duration">Durasi</string>
+    <string name="tagline">TagLine</string>
+    <string name="language">Bahasa</string>
+    <string name="genres">Genre</string>
+    <string name="release">Tanggal Rilis</string>
+    <string name="overview">Deskripsi</string>
+    <string name="Up_coming">Akan Datang</string>
+    <string name="cari_film">Cari Film</string>
+    <string name="cari">Cari</string>
+
+    <string name="save">simpan</string>
+    <string name="_throw">buang</string>
+    <string name="save_data">anda menyimpan data ini</string>
+    <string name="delete_data">anda menghapus data ini</string>
+
+    <string name="favorite">Favorit</string>
+</resources>
